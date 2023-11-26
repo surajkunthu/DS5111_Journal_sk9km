@@ -1,0 +1,3 @@
+# Module 07: Containers
+
+Docker is an amazing tool that further helps eliminate that age-old issue of "it works on my pc" when handing-off your code to someone else. Creating a container ensures that everything down to the OS is the same between test runs of the code because of the image that is created with Docker. This also helps when deploying updated versions of code since now it makes it easier to isolate what could be a potential issue when upgrading. If an issue does arise, it is very simple to rollback to the previous image.

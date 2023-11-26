@@ -1,0 +1,3 @@
+# Module 08: Database Design
+
+Databases are an important concept, not just for Data Science, but for the greater software engineering community. Everything relies on data. Whether it be from an API or database server, proper design is required to make these "transactions" as simple as possible. Luckily, the data community has standarized many aspects of data retrieval and formatting. One such is the creation of CRUD and CRUD properties. These properties (Create, Read, Update, Delete) MUST exist to interact with one's database. This in combination with a relational database allows for any developer/engineer approaching this database/API the groundwork to leverage the data within without any hurdles.

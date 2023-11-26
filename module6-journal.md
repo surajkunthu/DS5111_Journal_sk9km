@@ -1,0 +1,3 @@
+# Module 06: CICD
+
+Much like the software testing module, I believe anything that can automate software testing and determine it's integrity will make for better code and cohesiveness within teams. Since, Agile is the primary project management methodology leveraged, CI/CD tools make it much easier to provide reliable code for your team and/or your client(s). GitHub actions and workflows is just another example of this "pipeline" that helps automate deployment.
