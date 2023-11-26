@@ -1,0 +1,3 @@
+# Module 09: Data Build Tool (DBT)
+
+DBT is a useful framework to help modularize SQL and creating Databases. As a full-time software engineer, having to create relational databases can be tedious especially if you need to add a new field to a datatable. Although NoSQL databases can solve some of these problems, NoSQL databases are not always the ideal tool to use. A DBT can be used to mitigate that gap of creating a new database, updating it with new requirements, and provide some basic data testing.
