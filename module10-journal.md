@@ -1,1 +1,3 @@
 # Module 10: Snowflake
+
+Snowflake seems to be a great enterprise tool that allows multiple groups of people to access the same data with different layers of privilege. This is an excellent way of perserving data security as groups that do not need write/delete access will not accidentally destroy any data. While those with that access can focus on maintaining the databases and build new tables. It was pretty effortless to use dbt to build SQL tables and connect it to Snowflake.
